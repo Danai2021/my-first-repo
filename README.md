@@ -10,4 +10,13 @@
 
 ### Hello again
 
-*
+*visit* 
+
+[website](https://www.google.com)
+- First item
+
+**this is bold**
+
+> is this a blockquote?
+
+![image of an animal](image.jpg)
